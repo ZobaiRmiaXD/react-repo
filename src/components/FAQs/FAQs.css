@@ -1,0 +1,9 @@
+.questions{
+
+   margin-top: 20vh;
+}
+
+.answer-box{
+   display: flex;
+   justify-content: center;
+}

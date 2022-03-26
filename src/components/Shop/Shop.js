@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Car from '../Car/Car';
+import FAQs from '../FAQs/FAQs';
 import Showcar from '../Showcar/Showcar';
 import './Shop.css';
 
@@ -80,6 +81,8 @@ const Shop = () => {
 
 
            </div>
+
+           <FAQs></FAQs>
       </div>
    );
 };

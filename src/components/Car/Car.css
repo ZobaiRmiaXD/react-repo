@@ -3,7 +3,7 @@
 
    height: 680px;
    width: 430px ;
-   border: 1px solid black;
+   border: 1px hidden black;
    position: relative;
  }
  
@@ -30,6 +30,7 @@
    display: flex;
    align-items: center;
    justify-content: center;
+   border: none;
 }
 
 .cart-button :hover{
