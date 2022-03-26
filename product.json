@@ -1,0 +1,99 @@
+[
+   {
+      "id":"1236",
+      "category":"sports car",
+      "model" :"Ford Mustang",
+      "manufacturer":"FORD",
+      "price":"2 M",
+      "image":"https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562246346/autoexpress/2018/05/_86a0671.jpg"
+   },
+   {
+      "id":"1354",
+      "category":"SUV",
+      "model" :"Mercedes Benz G63",
+      "manufacturer":"Mercedes",
+      "price":"1.6 M",
+      "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/G-Class/7194/1638504451130/front-left-side-47.jpg?tr=w-375"
+   },
+   {
+      "id":"2547",
+      "category":"SUV",
+      "model" :"Range Rover Vogue",
+      "manufacturer":"Range Rover",
+      "price":"1.7 M",
+      "image":"https://monaco-cars.rent/img/cars-img/land-rover--range-vogue-5-0l-new-model/land-rover--range-vogue-5-0l-new-model--9e9bf211753ec315e7df2e76b7463026--1280x960.jpg"
+   },
+   {
+      "id":"1487",
+      "category":"sedan",
+      "model" :"BMW 7 series",
+      "manufacturer":"BMW",
+      "price":"1.5 M",
+      "image":"https://s1.cdn.autoevolution.com/images/news/bmw-7-series-two-tone-special-edition-couldn-t-be-more-maybach-if-it-tried-159612_1.jpg"
+   },
+   {
+      "id":"2697",
+      "category":"sports car",
+      "model" :"buggatti chiron",
+      "manufacturer":"Buggatti",
+      "price":"2.2 M",
+      "image":"https://www.motortrend.com/uploads/2022/01/2022-Bugatti-Chiron-Super-Sport-65.jpg"
+   },
+   {
+      "id":"3564",
+      "category":"sports car",
+      "model" :"Audi R8",
+      "manufacturer":"Audi",
+      "price":"1.9 M",
+      "image":"https://images.unsplash.com/photo-1611740801135-00c6dd101c34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGF1ZGklMjByOHxlbnwwfHwwfHw%3D&w=1000&q=80"
+   },
+   {
+      "id":"3558",
+      "category":"SUV",
+      "model" :"Toyota Land Cruiser",
+      "manufacturer":"Toyota",
+      "price":"1.3 M",
+      "image":"https://www.motortrend.com/uploads/sites/5/2020/11/001-2021-land-cruiser.jpg"
+   },
+   {
+      "id":"4512",
+      "category":"sedan",
+      "model" :"Toyota Corolla",
+      "manufacturer":"Toyota",
+      "price":"1 M",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+   },
+   {
+      "id":"4314",
+      "category":"SUV",
+      "model" :"Hammer H2",
+      "manufacturer":"General MOtors",
+      "price":"1.3 M",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Hummer_H2_Avant.jpg"
+   },
+   {
+      "id":"6412",
+      "category":"Military Truck",
+      "model" :"Stallion 8X8",
+      "manufacturer":"Ashok Leyland",
+      "price":"3 M",
+      "image":"https://wallpapercave.com/wp/wp4525100.jpg"
+   },
+   {
+      "id":"6125",
+      "category":"Military Truck",
+      "model" :"Arunima",
+      "manufacturer":"Bangladesh Army",
+      "price":"2.8 M",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Bangladesh_Army_BMTF_Arunima_Bolyan_4X4_truck._%2833666015661%29.jpg"
+   },
+   {
+      "id":"7087",
+      "category":"lorry",
+      "model" :"ISZU ELF",
+      "manufacturer":"ISZU",
+      "price":"1.2 M",
+      "image":"https://i.pinimg.com/originals/b7/c6/08/b7c60806863f8b2b823b321a934ab9f5.png"
+   }
+]
+
