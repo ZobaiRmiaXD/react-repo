@@ -16,8 +16,8 @@ const Shop = () => {
 
    const [cart , setCart] = useState([])
    const addToCart =(car)=>{
-      console.log(car);
-      const newCart = [...cart , car] ;
+    //  console.log(car);
+       let newCart = [...cart , car] ;
       let count=0
 
       if(cart.length<=3){
@@ -26,7 +26,21 @@ const Shop = () => {
       }
       else{
          alert("You Can't Select More than four cars");
+         newCart=cart
+         setCart(newCart)
       }
+
+   }
+
+   let [update ,setupDate] = useState([])
+   const updateCart= (data)=>{
+     // console.log(data);
+       //console.log(cart)
+         update =cart
+       //let updatedNewCart=update.getAttribute(data)
+       //setupDate(updatedNewCart)
+       setCart(cart.filter( items=>items !==data))
+      // console.log(cart)
 
    }
 
@@ -51,6 +65,7 @@ const Shop = () => {
             {
                cart.map(car=> <Showcar key={car.id}
                   info={car}
+                  updateCart={updateCart}
                   ></Showcar>)
             }
             
