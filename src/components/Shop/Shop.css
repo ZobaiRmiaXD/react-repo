@@ -20,3 +20,9 @@
    position: sticky;
    top: 0;
 }
+
+.remov-btn{
+
+   position: absolute;
+   bottom: 0;
+}

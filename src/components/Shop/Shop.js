@@ -26,8 +26,7 @@ const Shop = () => {
       }
       else{
          alert("You Can't Select More than four cars");
-         newCart=cart
-         setCart(newCart)
+         
       }
 
    }
@@ -41,6 +40,12 @@ const Shop = () => {
        //setupDate(updatedNewCart)
        setCart(cart.filter( items=>items !==data))
       // console.log(cart)
+
+   }
+
+   const removeAll=()=>{
+         let removedCart = []
+         setCart(removedCart);
 
    }
 
@@ -69,6 +74,9 @@ const Shop = () => {
                   ></Showcar>)
             }
             
+            <button className='remov-btn' onClick={removeAll}>
+               <p>remove all</p>
+            </button>
 
 
            </div>
